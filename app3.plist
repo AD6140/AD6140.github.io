@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.averydennison.6140</string>
+				<string>com.averydennison.GlobalBay</string>
 				<key>bundle-version</key>
 				<string>4.0</string>
 				<key>kind</key>
